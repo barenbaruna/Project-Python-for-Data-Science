@@ -2,7 +2,7 @@
 
 ### Author: MARYAM NOROOZI
 ### [Link to Kaggle Code](https://www.kaggle.com/code/maryamnoroozi68/ibm-hr-attrition-analysis-98-model-accuracy)
-
+### [Link to Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset/data)
 ---
 
 ### 📝 Project Description:
